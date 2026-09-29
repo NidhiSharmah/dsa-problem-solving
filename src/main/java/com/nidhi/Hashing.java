@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class hashing {
+public class Hashing {
     public static void main(String args[]){
         // Country(key), Population(Value)
         HashMap<String, Integer> map = new HashMap<>();
